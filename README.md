@@ -1,2 +1,2 @@
 # GuidesBackup
-A backup of my guides
+A backup of my guides incase my server is unreachable.
